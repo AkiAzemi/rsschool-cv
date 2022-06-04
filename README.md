@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://akiazemi.github.io/rsschool-cv/
